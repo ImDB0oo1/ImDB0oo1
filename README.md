@@ -8,8 +8,6 @@ Currently looking for **PhD positions in Machine Learning / NLP / Graph Learning
 - 🔗 LinkedIn: [danial-buruni-43aa47246](https://www.linkedin.com/in/danial-buruni-43aa47246)
 - 🧪 GitHub: [ImDB0oo1](https://github.com/ImDB0oo1)
 - 📄 CV (PDF): [Download here](./CV/Danial_Buruni_CV.pdf) <!-- adjust path -->
-- 📝 Publication: *A Review on Digital Twin Enabled by Blockchain in Smart Cities and Sustainable Energy*
-
 ---
 
 ## Research Interests
