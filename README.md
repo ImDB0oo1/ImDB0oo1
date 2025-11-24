@@ -58,8 +58,7 @@ Exploratory graph learning on MovieLens with:
 - Improved minority-class detection by **7%** using:
   - **SMOTE** oversampling
   - Decision-tree-based feature selection
-  
-🔗 Repo: [fraude-detection](https://github.com/ImDB0oo1/Machine_Learning/blob/master/ML_project_3/ML_project_3_fraud_detection.ipynb) <!-- adjust -->
+🔗 Repo: [fraude-detection](https://github.com/ImDB0oo1/Machine_Learning/blob/master/ML_project_3/ML_project_3_fraud_detection.ipynb) 
 ---
 
 ### 🧮 Low-Rank Matrix Factorization for NN Regularization
