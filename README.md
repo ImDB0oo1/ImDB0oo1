@@ -7,16 +7,12 @@ Currently looking for **PhD positions in Machine Learning / NLP / Graph Learning
 - 📧 Email: danialbma77@gmail.com  
 - 🔗 LinkedIn: [danial-buruni-43aa47246](https://www.linkedin.com/in/danial-buruni-43aa47246)
 - 🧪 GitHub: [ImDB0oo1](https://github.com/ImDB0oo1)
-- 📄 CV (PDF): [Download here](./CV/Danial_Buruni_CV.pdf) <!-- adjust path -->
 ---
 
 ## Research Interests
 
 - **Graph Neural Networks (GNNs)** for recommendation, anomaly detection, and structured data
 - **Natural Language Processing** with a focus on **OOD detection** and **explainability**
-- **Computational Data Mining & Optimization**
-- **Machine Learning systems** for smart energy and cyber-physical systems
-
 ---
 
 ## Education
@@ -43,7 +39,7 @@ Pipeline combining:
 - **LLMs** for concept/label refinement
 - **Graph Neural Networks** for OOD detection + explainability
 
-> *Code will be open-sourced soon / [link to repo if already public]*
+> CoGood / [https://github.com/ImDB0oo1/CoGood]*
 
 ---
 
