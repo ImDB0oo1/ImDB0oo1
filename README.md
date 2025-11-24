@@ -4,7 +4,7 @@
 Interested in **Graph Neural Networks (GNNs), NLP, Out-of-Distribution (OOD) Detection, and AI for Complex Systems**.  
 Currently looking for **PhD positions in Machine Learning / NLP / Graph Learning (Fall 2026 or earlier)**.
 
-- 📧 Email: danialbma77@gmail.com  
+- 📧 Email: danial.bma98@gmail.com  
 - 🔗 LinkedIn: [danial-buruni-43aa47246](https://www.linkedin.com/in/danial-buruni-43aa47246)
 - 🧪 GitHub: [ImDB0oo1](https://github.com/ImDB0oo1)
 ---
