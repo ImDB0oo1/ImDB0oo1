@@ -58,12 +58,14 @@ Exploratory graph learning on MovieLens with:
 - Improved minority-class detection by **7%** using:
   - **SMOTE** oversampling
   - Decision-tree-based feature selection
+  
 🔗 Repo: [fraude-detection](https://github.com/ImDB0oo1/Machine_Learning/blob/master/ML_project_3/ML_project_3_fraud_detection.ipynb) <!-- adjust -->
 ---
 
 ### 🧮 Low-Rank Matrix Factorization for NN Regularization
 - Applied **low-rank factorization** to neural network weights
 - Achieved **10% faster training** and more stable convergence
+
 🔗 Repo: [low-rank-factorization](https://github.com/ImDB0oo1/Computational_DataMining/blob/master/Computational_datamining_Ex5.ipynb)
 ---
 
@@ -72,6 +74,7 @@ Exploratory graph learning on MovieLens with:
 - Stack: Python, Playwright, BeautifulSoup, WooCommerce API, Docker, NGINX, Cloudflare
 - Includes **desktop GUI** and **web app**
 
+Site: [torobyar](https://torobyar.ir/)
 ---
 
 ## Publication
