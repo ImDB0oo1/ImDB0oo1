@@ -61,9 +61,6 @@ Exploratory graph learning on MovieLens with:
 
 🔗 Repo: [fraude-detection](https://github.com/ImDB0oo1/Machine_Learning/blob/master/ML_project_3/ML_project_3_fraud_detection.ipynb) <!-- adjust -->
 
-
-🔗 Repo: [gnn-movielens-recommender](https://github.com/ImDB0oo1/gnn-movielens-recommender) <!-- adjust -->
-🔗 Repo: [fraude-detection](https://github.com/ImDB0oo1/Machine_Learning/blob/master/ML_project_3/ML_project_3_fraud_detection.ipynb) 
 ---
 
 ### 🧮 Low-Rank Matrix Factorization for NN Regularization
@@ -71,6 +68,7 @@ Exploratory graph learning on MovieLens with:
 - Achieved **10% faster training** and more stable convergence
 
 🔗 Repo: [low-rank-factorization](https://github.com/ImDB0oo1/Computational_DataMining/blob/master/Computational_datamining_Ex5.ipynb)
+
 ---
 
 ### 🛒 Torob Scraper & WooCommerce Price Updater
@@ -79,6 +77,7 @@ Exploratory graph learning on MovieLens with:
 - Includes **desktop GUI** and **web app**
 
 Site: [torobyar](https://torobyar.ir/)
+
 ---
 
 ## Publication
